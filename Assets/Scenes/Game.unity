@@ -567,6 +567,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4fe45b386a87c94db3c0f84128a37a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  centerTarget: {fileID: 679479266}
+  distance: 5
 --- !u!1 &966666929
 GameObject:
   m_ObjectHideFlags: 0
@@ -926,7 +928,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mainCamera: {fileID: 963194227}
   power: 0.05
-  upwardMultiplier: 2
+  upwardMultiplier: 3
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
